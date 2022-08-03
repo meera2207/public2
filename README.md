@@ -1,2 +1,2 @@
 # public2
-practice pupose2 
+practice purpose2 
